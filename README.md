@@ -7,9 +7,13 @@ Resourceful, passionate, and resilient are the three words that best describe Kr
 Technical Skills:
 
 Languages: Python, Java, C, C++, NodeJS, SQL, HTML, CSS, Swift, Objective-C, PHP, Bash
+
 Frameworks: Slurm, Apache Spark, Flask, FastAPI, REST
+
 Databases: MySQL, Redis, MongoDB, MariaDB
+
 Platforms: AWS Cloud (EC2, S3), Microsoft Azure (Red Hat Enterprise Linux, Debian, FreeBSD), Git
+
 Libraries: Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Tesseract, Pytorch, SwiftUI, UIKit
 
 Contact: krishjain@ieee.org
