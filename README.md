@@ -12,7 +12,7 @@ Frameworks: Slurm, Apache Spark, Flask, FastAPI, REST
 
 Databases: MySQL, Redis, MongoDB, MariaDB
 
-Platforms: AWS Cloud (EC2, S3), Microsoft Azure (Red Hat Enterprise Linux, Debian, FreeBSD), Git
+Platforms: AWS Cloud (EC2, S3), Docker/Podman, Kubernetes, Microsoft Azure (Red Hat Enterprise Linux, Debian, FreeBSD), Git
 
 Libraries: Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Tesseract, Pytorch, SwiftUI, UIKit
 
