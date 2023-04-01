@@ -17,4 +17,5 @@ Platforms: AWS Cloud (EC2, S3), Docker/Podman, Kubernetes, Microsoft Azure (Red 
 Libraries: Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Tesseract, Pytorch, SwiftUI, UIKit
 
 Contact: krishjain@ieee.org
+
 LinkedIn: https://www.linkedin.com/in/krishjain02/
