@@ -1,6 +1,6 @@
 Krish Jain: Undergrad | Software Engineer | Tech Enthusiast | Researcher | Apple WWDC Scholar | Yale Young Global Scholar
 
-Passionate about deep tech startups and innovative products. Expertise in Python, Java, C++, cloud computing, and deep learning. Skilled in AWS, Docker, Kubernetes, and Git. Strong interest in NLP, back-end dev, and quantitative methods. Conducted research in cybersecurity, biotech, and natural disasters.
+Passionate about deep tech startups and innovative products. Experience in Python, Java, C++, cloud computing, embedded systems and operating systems. Skilled in AWS, Docker, Kubernetes, and Git. Strong interest in NLP, robotics, back-end dev, and quantitative methods. Conducted research in cybersecurity, biotech, and natural disasters.
 
 Technical Skills:
 - Languages: Python, Java, C, C++, SQL, HTML, CSS, Swift, Objective-C, PHP, Bash
