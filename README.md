@@ -11,6 +11,8 @@ Technical Skills:
 
 Currently: Working on Secure Extensions for Image-Based Linux with the Flatcar community. Flatcar Linux is a project out of Kinvolk (now acquired by Microsoft). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributed bug fixes and solving backlog in open source projects in my spare time.
 
+Looking to explore: Autonomous systems, XR (VR/AR)
+
 Contact: krishjain@ieee.org
 
 LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
