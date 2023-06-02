@@ -1,4 +1,4 @@
-Krish Jain: Undergrad | Software Engineer | Tech Enthusiast | Researcher
+Krish Jain: Undergrad | Software Engineer | Tech Enthusiast | Researcher | Apple WWDC Scholar | Yale Young Global Scholar
 
 Passionate about deep tech startups and innovative products. Expertise in Python, Java, C++, cloud computing, and deep learning. Skilled in AWS, Docker, Kubernetes, and Git. Strong interest in NLP, back-end dev, and quantitative methods. Conducted research in cybersecurity, biotech, and natural disasters.
 
