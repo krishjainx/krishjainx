@@ -17,6 +17,10 @@ Contact: krishjain@ieee.org
 
 LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
+See code I have opensourced:
+- https://github.com/krishjainx?tab=repositories&q=&type=source&language=&sort=
+- git.astroventure.org
+
 
 
 
