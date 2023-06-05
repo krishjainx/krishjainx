@@ -1,4 +1,4 @@
-[Krish Jain](https://www.linkedin.com/in/krishjain02/): Undergrad | Software Engineer | Tech Enthusiast | Researcher | Apple WWDC Scholar | Yale Young Global Scholar
+[Krish Jain](https://www.linkedin.com/in/krishjain02/): Undergrad | Software Engineer | Tech Enthusiast | Researcher | [Apple WWDC Scholar](https://www.macworld.com/article/1457999/swift-student-challenge-apple.html) | Yale Young Global Scholar
 
 Passionate about deep tech startups and innovative products. Experience in Python, Java, C++, cloud computing, embedded systems and operating systems. Skilled in AWS, Docker, Kubernetes, and Git. Strong interest in NLP, robotics, back-end dev, and quantitative methods. Conducted research in cybersecurity, biotech, and natural disasters.
 
