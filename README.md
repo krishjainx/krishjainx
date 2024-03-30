@@ -31,7 +31,7 @@ A recent paper explains how to make any C/C++ program literate, expands on the a
 
 https://dl.acm.org/doi/10.1145/3570938
 
-On to next: 
+**On to next**: 
 
 > Thrilled to announce I'll be interning with Chainguard this summer on their Lifecycle Squad! They're the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we secure open-source software at scale.
 
