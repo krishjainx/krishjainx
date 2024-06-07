@@ -18,7 +18,13 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 **keywords:** security, linux, algo, infrastructure, nw, databases, ios, nlp, backend dev, distributed systems, high-performance computing, biotech, life sciences
 
-Looking to explore: Autonomous systems, RTOS
+**Looking to explore:**
+
+- Autonomous systems
+- Real-Time Operating Systems (RTOS)
+- Immutable and secure container host Operating Systems (OSs)
+- Supply chain security
+- Browser development, particularly Chromium
 
 **Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
 
