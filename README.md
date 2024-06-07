@@ -20,11 +20,15 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 **Looking to explore:**
 
+- Software supply chain security
 - Autonomous systems
 - Real-Time Operating Systems (RTOS)
 - Immutable and secure container host Operating Systems (OSs)
 - Supply chain security
 - Browser development, particularly Chromium
+- Kernel development
+- Linux Userspace (systemd 👀)
+- Containers
 
 **Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
 
