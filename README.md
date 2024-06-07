@@ -20,7 +20,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 Looking to explore: Autonomous systems, RTOS
 
-**Contact:** krishjain@ieee.org
+**Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
 
 **LinkedIn:** [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
