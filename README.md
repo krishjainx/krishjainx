@@ -2,6 +2,11 @@
 
 Insatiably curious, I strive to learn, create, and make a positive impact on the world. My passions lie in health tech, infrastructure, cloud computing, cybersecurity, and developer tools – fields where technology can change lives. My diverse background, from India to Spain and now the US, fuels my collaborative spirit and desire to build a better future for all.
 
+**Socials:**
+
+- Email: krish.jain@chainguard.dev | kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu 
+- Mastodon: https://fosstodon.org/@krishjain
+
 **Recently:** Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlog in open source projects in my spare time.
 
 **Testimonials**
@@ -29,6 +34,9 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 - Kernel development
 - Linux Userspace (systemd 👀)
 - Containers
+- Network programming
+- Distributed systems
+- Compilers
 
 **Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
 
