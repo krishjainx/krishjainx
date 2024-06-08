@@ -7,6 +7,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 - Email: krish.jain@chainguard.dev | kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu 
 - Mastodon: https://fosstodon.org/@krishjain
+- LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
 🌟 **Recently:** Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlogs in open-source projects in my spare time.
 
@@ -38,11 +39,6 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 - Network programming
 - Distributed systems
 - Compilers
-
-📬 **Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
-
-🔗  **LinkedIn:** [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
-
 
 📚 **Recent Projects:**
 
