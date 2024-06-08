@@ -1,15 +1,16 @@
 [Krish Jain](https://www.linkedin.com/in/krishjain02/): Undergrad | Software Engineer | Researcher | [Apple WWDC Scholar](https://www.macworld.com/article/1457999/swift-student-challenge-apple.html) | Yale Young Global Scholar
 
+🌍  **About me:**
 Insatiably curious, I strive to learn, create, and make a positive impact on the world. My passions lie in health tech, infrastructure, cloud computing, cybersecurity, and developer tools – fields where technology can change lives. My diverse background, from India to Spain and now the US, fuels my collaborative spirit and desire to build a better future for all.
 
-**Socials:**
+🔗 **Socials:**
 
 - Email: krish.jain@chainguard.dev | kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu 
 - Mastodon: https://fosstodon.org/@krishjain
 
-**Recently:** Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlog in open source projects in my spare time.
+🌟 **Recently:** Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlogs in open-source projects in my spare time.
 
-**Testimonials**
+💼 **Testimonials**
 
 "Throughout the internship, Krish remained highly motivated, displayed a strong eagerness to learn, and always delivered towards his goals. He contributed significant improvements to the Flatcar project and helped create a solid foundation for our composable images initiative." - Thilo Fromm, Microsoft 
 
@@ -21,9 +22,9 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 "Krish was motivated to discover Flatcar issues that were untouched for a long time, and was actively engaged in fixing the issues. When his pull requests were reviewed by maintainers, he proactively updated the pull requests to address individual comments. I want to appreciate his activities that brought positive impacts on the maintainers as well as the community." - Dongsu Park, Microsoft
 
-**keywords:** security, linux, algo, infrastructure, nw, databases, ios, nlp, backend dev, distributed systems, high-performance computing, biotech, life sciences
+🔑 **keywords:** security, linux, algo, infrastructure, nw, databases, ios, nlp, backend dev, distributed systems, high-performance computing, biotech, life sciences
 
-**Looking to explore:**
+🛠 **Looking to explore:**
 
 - Software supply chain security
 - Autonomous systems
@@ -38,26 +39,26 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 - Distributed systems
 - Compilers
 
-**Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
+📬 **Contact:** krish.jain@rochester.edu (or kjain7@u.rochester.edu), kj2560@nyu.edu
 
-**LinkedIn:** [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
+🔗  **LinkedIn:** [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
 
-**Recent Projects:**
+📚 **Recent Projects:**
 
-This past winter break I worked with Dr. Kelley, who is an independent researcher formerly at HP Labs. He works with talented students from many universities on open source software projects. I worked on enhancing GNU screen to make it a "literate executable" capable of outputting its own source code tarball. Screen is a fundamental utility in Unix-like systems that has remained relevant since its inception in 1987. Literate executables carry around all of their own source code (and documentation, and whatever else the tarball contains), making it easy for users to scrutinize the exact source corresponding to the executable on their $PATH.
+This past winter break I worked with Dr. Kelley, who is an independent researcher formerly at HP Labs. He works with talented students from many universities on open-source software projects. I worked on **enhancing GNU screen to make it a "literate executable" capable of outputting its own source code tarball**. Screen is a fundamental utility in Unix-like systems that has remained relevant since its inception in 1987. Literate executables carry around all of their own source code (and documentation, and whatever else the tarball contains), making it easy for users to scrutinize the exact source corresponding to the executable on their $PATH.
 
 A recent paper explains how to make any C/C++ program literate, expands on the advantages of literate executables, and literate-izes the GNU grep utility as an example:
 
 https://dl.acm.org/doi/10.1145/3570938
 
-**On to next**: 
+🎉 **On to next**: 
 
-> Thrilled to announce I'll be interning with Chainguard this summer on their Lifecycle Squad! They're the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we secure open-source software at scale.
+> Thrilled to announce I'll be interning with Chainguard this summer on their Lifecycle Squad! They're the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we **secure open-source software at scale**.
 
-> Backed by Sequoia Capital, Amplify Partners, The Chainsmokers' (Alex Pall and Drew Taggart) Mantis Venture Capital, and others, Chainguard's mission is resonating. Their recent Series B round brought the company's total fundraising to $116 million, fueling their groundbreaking approach. Companies like GitGuardian, Hewlett Packard Enterprise, Sourcegraph, Snowflake, and Replicated are already seeing the benefits of their hardened container image solution. In the wake of the SolarWinds hack, this proactive approach to security is more vital than ever.
+> Backed by **Sequoia Capital, Amplify Partners, The Chainsmokers' (Alex Pall and Drew Taggart) Mantis Venture Capital**, and others, Chainguard's mission resonates. Their recent **Series B round** brought the company's total fundraising to **$116 million**, fueling their groundbreaking approach. Companies like **GitGuardian, Hewlett Packard Enterprise, Sourcegraph, Snowflake, and Replicated** are already seeing the benefits of their hardened container image solution. In the wake of the SolarWinds hack, this proactive approach to security is more vital than ever.
 
-> Chainguard has cracked the code on software supply chain security. They go beyond alerts and actually preemptively fix vulnerabilities. This is a game-changer, letting developer and security teams breathe easier and get back to building. There's nothing else like Chainguard out there.
+> Chainguard has cracked the code on software supply chain security. They go beyond alerts and preemptively fix vulnerabilities. This is a game-changer, letting developer and security teams breathe easier and get back to building. There's nothing else like Chainguard out there.
 
 > The team's experience delivering software products at gigascale at Google, Microsoft, and VMware shines through in everything they do. I can't wait to dive deep into their work. If you're interested in the intersection of open source, security, and the software supply chain, let's chat! Big thanks to the Chainguard team for this incredible opportunity! 
 
