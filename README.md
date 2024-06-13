@@ -61,7 +61,13 @@ https://dl.acm.org/doi/10.1145/3570938
 
 > Chainguard has cracked the code on software supply chain security. They go beyond alerts and preemptively fix vulnerabilities. This is a game-changer, letting developer and security teams breathe easier and get back to building. There's nothing else like Chainguard out there.
 
-> The team's experience delivering software products at gigascale at Google, Microsoft, and VMware shines through in everything they do. I can't wait to dive deep into their work. If you're interested in the intersection of open source, security, and the software supply chain, let's chat! Big thanks to the Chainguard team for this incredible opportunity! 
+> The team's experience delivering software products at gigascale at Google, Microsoft, and VMware shines through in everything they do. I can't wait to dive deep into their work. If you're interested in the intersection of open source, security, and the software supply chain, let's chat! Big thanks to the Chainguard team for this incredible opportunity!
+
+
+
+
+![image](https://github.com/krishjainx/krishjainx/assets/75043245/bfaf88d4-80d9-4a5f-b365-a4f52cec5729)
+
 
 
 
