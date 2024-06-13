@@ -1,5 +1,10 @@
 [Krish Jain](https://www.linkedin.com/in/krishjain02/): Undergrad | Software Engineer | Researcher | [Apple WWDC Scholar](https://www.macworld.com/article/1457999/swift-student-challenge-apple.html) | Yale Young Global Scholar
 
+
+<p align="center">
+<img src="https://github.com/krishjainx/krishjainx/assets/75043245/53c498ba-7a95-45db-ba3f-b8ee27f66c5e" width="400">
+</p>
+
 🌍  **About me:**
 Insatiably curious, I strive to learn, create, and make a positive impact on the world. My passions lie in health tech, infrastructure, cloud computing, cybersecurity, and developer tools – fields where technology can change lives. My diverse background, from India to Spain and now the US, fuels my collaborative spirit and desire to build a better future for all.
 
