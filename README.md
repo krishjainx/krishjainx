@@ -44,6 +44,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 - Network programming
 - Distributed systems
 - Compilers
+- eBPF
 
 📚 **Recent Projects:**
 
