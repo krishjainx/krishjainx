@@ -1,22 +1,20 @@
 [Krish Jain](https://www.linkedin.com/in/krishjain02/): Undergrad | Software Engineer | Researcher | [Apple WWDC Scholar](https://www.macworld.com/article/1457999/swift-student-challenge-apple.html) | Yale Young Global Scholar
 
+**About**
 
-<p align="center">
-<img src="https://github.com/krishjainx/krishjainx/assets/75043245/53c498ba-7a95-45db-ba3f-b8ee27f66c5e" width="400">
-</p>
-
-🌍  **About me:**
 Insatiably curious, I strive to learn, create, and make a positive impact on the world. My passions lie in health tech, infrastructure, cloud computing, cybersecurity, and developer tools – fields where technology can change lives. My diverse background, from India to Spain and now the US, fuels my collaborative spirit and desire to build a better future for all.
 
-🔗 **Socials:**
+**Socials**
 
 - Email: krish.jain@chainguard.dev | kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu 
 - Mastodon: https://fosstodon.org/@krishjain
 - LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
-🌟 **Recently:** Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlogs in open-source projects in my spare time.
+**Recently** 
 
-💼 **Testimonials**
+Worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)). Mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm also contributing bug fixes and solving backlogs in open-source projects in my spare time.
+
+**Testimonials**
 
 "Throughout the internship, Krish remained highly motivated, displayed a strong eagerness to learn, and always delivered towards his goals. He contributed significant improvements to the Flatcar project and helped create a solid foundation for our composable images initiative." - Thilo Fromm, Microsoft 
 
@@ -30,7 +28,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 🔑 **keywords:** security, linux, algo, infrastructure, nw, databases, ios, nlp, backend dev, distributed systems, high-performance computing, biotech, life sciences
 
-🛠 **Looking to explore:**
+**Looking to explore:**
 
 - Software supply chain security
 - Autonomous systems
@@ -46,7 +44,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 - Compilers
 - eBPF
 
-📚 **Recent Projects:**
+**Recent Projects:**
 
 This past winter break I worked with Dr. Kelley, who is an independent researcher formerly at HP Labs. He works with talented students from many universities on open-source software projects. I worked on **enhancing GNU screen to make it a "literate executable" capable of outputting its own source code tarball**. Screen is a fundamental utility in Unix-like systems that has remained relevant since its inception in 1987. Literate executables carry around all of their own source code (and documentation, and whatever else the tarball contains), making it easy for users to scrutinize the exact source corresponding to the executable on their $PATH.
 
@@ -54,7 +52,7 @@ A recent paper explains how to make any C/C++ program literate, expands on the a
 
 https://dl.acm.org/doi/10.1145/3570938
 
-🎉 **On to next**: 
+🎉 **Currently**: 
 
 > Thrilled to announce I'll be interning with Chainguard this summer on their Lifecycle Squad! They're the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we **secure open-source software at scale**.
 
