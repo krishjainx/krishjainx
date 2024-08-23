@@ -6,7 +6,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 **Socials**
 
-- Email: krish.jain@chainguard.dev | kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu 
+- Email: kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu | ~krish.jain@chainguard.dev~
 - Mastodon: https://fosstodon.org/@krishjain
 - LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
