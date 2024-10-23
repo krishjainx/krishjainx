@@ -28,7 +28,7 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 I worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)), and I was mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm contributing bug fixes and solving backlogs in open-source projects in my spare time.
 
-## Testimonials
+## Recommendations
 
 > "Krish is a super motivated engineer. He is forward-looking and driven to create new ideas and solutions. He proactively seeks feedback on his work to ensure that it is of high quality." — Scott Moser, Principal Software Engineer, Chainguard
 
