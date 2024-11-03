@@ -9,7 +9,7 @@
 
 # About
 
-"You will bring the future into existence."
+"You will the future into existence."
 
 **Undergrad | Software Engineer | Researcher | [Apple WWDC Scholar](https://www.macworld.com/article/1457999/swift-student-challenge-apple.html) | Yale Young Global Scholar**
 
