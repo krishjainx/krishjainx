@@ -16,9 +16,7 @@ Feel free to reach out: [Calendly](https://calendly.com/krishjain) or via email,
 
 I’m a tech enthusiast, hacker, and cloud aficionado, currently building the future of secure operating systems while exploring AI for smarter security policies. A computer scientist by degree, I’m obsessed with making tech safer and cooler.
 
-### Recently
-
-I interned at [Chainguard](https://fortune.com/2024/07/25/exclusive-chainguard-raises-140-million-series-c/, a billion-dollar unicorn shaking up software supply chain security. In my downtime, I’m crafting an OS with military-grade security (because why not?) and teaching AI to write security policies even I wouldn’t dream of. Previously, I worked on Microsoft’s Flatcar Linux. I worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)), and I was mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm contributing bug fixes and solving backlogs in open-source projects in my spare time. I've also snuck into a few tech conferences (pro tip: networking isn’t just about the invite list), and constantly pushed the boundaries of what’s possible. I’m currently automating SELinux policy analysis because it’s a challenge, and I love those.
+Recently, I interned at [Chainguard](https://fortune.com/2024/07/25/exclusive-chainguard-raises-140-million-series-c/, a billion-dollar unicorn shaking up software supply chain security. Previously, I worked on Microsoft’s Flatcar Linux. I worked on Secure Extensions for Image-Based Linux with the Flatcar team. [Flatcar Linux](https://www.flatcar.org/) is a project out of Kinvolk (now [acquired by Microsoft](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/)), and I was mentored by Thilo Fromm from Microsoft Germany. Along with my internship, I'm contributing bug fixes and solving backlogs in open-source projects in my spare time. I've also snuck into a few tech conferences (pro tip: networking isn’t just about the invite list), and constantly pushed the boundaries of what’s possible. I’m currently automating SELinux policy analysis because it’s a challenge, and I love those.
 
 Insatiably curious, I strive to learn, create, and make a positive impact on the world. My passions lie in health tech, infrastructure, cloud computing, cybersecurity, and developer tools—fields where technology can change lives. My diverse background, from India to Spain and now the US, fuels my collaborative spirit and desire to build a better future for all.
 
@@ -46,6 +44,20 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
 
 `security`, `linux`, `algorithm`, `infrastructure`, `network`, `databases`, `ios`, `nlp`, `backend development`, `distributed systems`, `high-performance computing`, `biotech`, `life sciences`
 
+## Recent Research Projects
+
+- During the last winter break, I collaborated with Dr. Kelley, an independent researcher formerly at HP Labs, on enhancing **GNU screen to make it a "literate executable"** capable of outputting its own source code tarball. Screen is a fundamental utility in Unix-like systems that has remained relevant since its inception in 1987. Literate executables carry around all of their own source code, making it easy for users to scrutinize the exact source corresponding to the executable on their `$PATH`. A recent paper explains how to make any C/C++ program literate, expands on the advantages of literate executables, and literate-izes the GNU grep utility as an example: [Link to Paper](https://dl.acm.org/doi/10.1145/3570938)
+- Security-Enhanced Linux (SELinux) is a robust security mechanism that enforces mandatory access controls (MAC), but its policy language’s complexity creates challenges for policy analysis and management. This research investigates the automation of SELinux policy analysis using graph-based techniques combined with machine-learning approaches to detect policy anomalies. The study addresses two key questions: Can SELinux policy analysis be automated through graph analysis, and how do different anomaly detection models compare in analyzing SELinux policies? We will be comparing different machine learning models by evaluating their effectiveness in detecting policy violations and anomalies. Our approach utilizes Neo4j for graph representation of policies, with Node2vec transforming these graph structures into meaningful vector embeddings that can be processed by our machine learning models. In our results, the MLP Neural Network consistently demonstrated superior performance across different dataset sizes, achieving 95% accuracy with balanced precision and recall metrics, while both Random Forest and SVM models showed competitive but slightly lower performance in detecting policy violations. This combination of graph-based modeling and machine learning provides a more sophisticated and automated approach to understanding and analyzing complex SELinux policies compared to traditional manual analysis methods. (IEEE)
+
+## Most recently
+
+> 🎉 I’m thrilled to announce that I'll be interning with Chainguard this summer on their Lifecycle Squad! They’re the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we **secure open-source software at scale**.
+
+> Backed by **Sequoia Capital, Amplify Partners, The Chainsmokers' Mantis Venture Capital**, and others, Chainguard's mission resonates with me. Their recent **Series B round** brought the company's total fundraising to **$116 million**, fueling their groundbreaking approach. Companies like **GitGuardian, Hewlett Packard Enterprise, Sourcegraph, Snowflake, and Replicated** are already seeing the benefits of their hardened container image solution.
+
+> In the wake of the SolarWinds hack, this proactive approach to security is more vital than ever. Chainguard has cracked the code of software supply chain security by going beyond alerts and preemptively fixing vulnerabilities. This is a game-changer, letting developer and security teams breathe easier and focus on building.
+
+
 <details>
   <summary><h2><strong>Looking to Explore</strong></h2></summary>
 
@@ -62,19 +74,6 @@ Insatiably curious, I strive to learn, create, and make a positive impact on the
   - eBPF
 
 </details>
-
-## Recent Research Projects
-
-- During the last winter break, I collaborated with Dr. Kelley, an independent researcher formerly at HP Labs, on enhancing **GNU screen to make it a "literate executable"** capable of outputting its own source code tarball. Screen is a fundamental utility in Unix-like systems that has remained relevant since its inception in 1987. Literate executables carry around all of their own source code, making it easy for users to scrutinize the exact source corresponding to the executable on their `$PATH`. A recent paper explains how to make any C/C++ program literate, expands on the advantages of literate executables, and literate-izes the GNU grep utility as an example: [Link to Paper](https://dl.acm.org/doi/10.1145/3570938)
-- Security-Enhanced Linux (SELinux) is a robust security mechanism that enforces mandatory access controls (MAC), but its policy language’s complexity creates challenges for policy analysis and management. This research investigates the automation of SELinux policy analysis using graph-based techniques combined with machine-learning approaches to detect policy anomalies. The study addresses two key questions: Can SELinux policy analysis be automated through graph analysis, and how do different anomaly detection models compare in analyzing SELinux policies? We will be comparing different machine learning models by evaluating their effectiveness in detecting policy violations and anomalies. Our approach utilizes Neo4j for graph representation of policies, with Node2vec transforming these graph structures into meaningful vector embeddings that can be processed by our machine learning models. In our results, the MLP Neural Network consistently demonstrated superior performance across different dataset sizes, achieving 95% accuracy with balanced precision and recall metrics, while both Random Forest and SVM models showed competitive but slightly lower performance in detecting policy violations. This combination of graph-based modeling and machine learning provides a more sophisticated and automated approach to understanding and analyzing complex SELinux policies compared to traditional manual analysis methods. (IEEE)
-
-## Most recently
-
-> 🎉 I’m thrilled to announce that I'll be interning with Chainguard this summer on their Lifecycle Squad! They’re the visionaries behind cloud-native technologies like Google's Distroless project and Sigstore, and now they're revolutionizing how we **secure open-source software at scale**.
-
-> Backed by **Sequoia Capital, Amplify Partners, The Chainsmokers' Mantis Venture Capital**, and others, Chainguard's mission resonates with me. Their recent **Series B round** brought the company's total fundraising to **$116 million**, fueling their groundbreaking approach. Companies like **GitGuardian, Hewlett Packard Enterprise, Sourcegraph, Snowflake, and Replicated** are already seeing the benefits of their hardened container image solution.
-
-> In the wake of the SolarWinds hack, this proactive approach to security is more vital than ever. Chainguard has cracked the code of software supply chain security by going beyond alerts and preemptively fixing vulnerabilities. This is a game-changer, letting developer and security teams breathe easier and focus on building.
 
 > The team's experience delivering software products at gigascale at Google, Microsoft, and VMware shines through in everything they do. I can't wait to dive deep into their work. If you're interested in the intersection of open source, security, and the software supply chain, let’s chat! Big thanks to the Chainguard team for this incredible opportunity!
 
