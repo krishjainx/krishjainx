@@ -4,7 +4,7 @@
 
 **Socials**
 
-- Email: kjain7@u.rochester.edu | kjain@fedoraproject.org | kj2560@nyu.edu | ~krish.jain@chainguard.dev~
+- Email: kjain7@u.rochester.edu | kjain@fedoraproject.org | ~krish.jain@chainguard.dev~
 - Mastodon: https://fosstodon.org/@krishjain
 - LinkedIn: [linkedin.com/in/krishjain02](https://www.linkedin.com/in/krishjain02/)
 
