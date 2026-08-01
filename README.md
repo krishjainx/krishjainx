@@ -1,6 +1,6 @@
 # Krish Jain
 
-CS at the University of Rochester, focused on systems engineering, security, and AI. These days I spend most of my time arguing with stochastic parrots.
+Computer Science graduate of the University of Rochester, focused on systems engineering, security, and AI. These days I spend most of my time arguing with stochastic parrots.
 
 ## Work
 
